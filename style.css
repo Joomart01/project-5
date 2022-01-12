@@ -1,0 +1,88 @@
+*{margin: 0;padding: 0}
+ul,ol,li{list-style: none}
+a,a:hover{text-decoration: none}
+body {
+    background: #06f836;
+}
+
+
+
+.block{
+
+    position: absolute;
+    width: 350px;
+    height: 450px;
+    background: #333131;
+    margin: 100px 0 130px 550px;
+    border-radius: 0 40px;
+    box-shadow: 60px 40px 5px 20px rgba(14, 13, 13, 0.13),
+    inset 5px 5px 5px 5px #b7f19f;
+}
+.title{
+    color: #eaf3ec;
+    font-family: 'Rubik', sans-serif    ;
+
+    margin: 0 0 0 30px;
+    padding-top: 20px;
+    text-transform:uppercase;
+    letter-spacing:5px;
+}
+
+
+.login--title{
+
+    color: #eaeaf8;
+    font-family:sans-serif;
+    font-size: 20px;
+    margin: 10px 0 20px;
+}
+.input{
+    padding: 50px;
+}
+.input-x{outline: none;
+    border:1px solid #7cfc00;
+    width: 220px;
+    padding: 10px;
+    border-radius: 20px;
+    background: #333131;
+}
+.input-x:hover{
+    box-shadow: 0 0 10px 5px #7cfc00,
+    inset 5px 5px 10px 30px #7cfc00;
+
+}
+.btn{
+    width:100px;
+    height:35px;
+    background:none;
+    border:1px solid #7CFC00;
+    border-radius:25px;
+    color:#fff;
+    margin:5px 120px;
+    font-size:15px;
+    font-weight:900;
+}
+.btn:hover{
+    box-shadow:0 0 20px 0 #7CFC00,
+    20px 10px 20px 10px #7CFC00 inset;
+
+    text-shadow:10px 10px 10px #7CFC00,
+    10px 10px  10px #7CFC00;}
+
+
+/*///////////////////*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
